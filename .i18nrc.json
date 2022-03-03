@@ -1,0 +1,7 @@
+{
+  "prefix": "hideHeader",
+  "paths": {
+    "hideHeader": "."
+  },
+  "translations": ["translations/ja-JP.json"]
+}
